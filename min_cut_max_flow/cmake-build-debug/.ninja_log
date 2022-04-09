@@ -1,0 +1,13 @@
+# ninja log v5
+33	2630	6691436765504511	CMakeFiles/min_cut.dir/flow_edge.cpp.obj	4f2b74e6411cd03e
+0	2638	6691436765624508	CMakeFiles/min_cut.dir/main.cpp.obj	7bd8343482a1679d
+36	2785	6691436767134483	CMakeFiles/min_cut.dir/flow_network.cpp.obj	56f3af1637a71e1c
+30	2926	6691436768544492	CMakeFiles/min_cut.dir/ford_fulkerson.cpp.obj	fbcb8a591c95bc6a
+2927	3222	6691436771424514	min_cut.exe	1397b4c7d381cdc
+5	2254	6691439228931662	CMakeFiles/min_cut.dir/main.cpp.obj	7bd8343482a1679d
+35	2473	6691439231111995	CMakeFiles/min_cut.dir/ford_fulkerson.cpp.obj	fbcb8a591c95bc6a
+2474	2719	6691439233541691	min_cut.exe	1397b4c7d381cdc
+4	2314	6691441146862632	CMakeFiles/min_cut.dir/flow_network.cpp.obj	56f3af1637a71e1c
+2315	2532	6691441148992648	min_cut.exe	1397b4c7d381cdc
+5	2369	6691444213559373	CMakeFiles/min_cut.dir/ford_fulkerson.cpp.obj	fbcb8a591c95bc6a
+2370	2589	6691444215729406	min_cut.exe	1397b4c7d381cdc

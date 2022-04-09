@@ -1,0 +1,1 @@
+add_executable(min_cut main.cpp ford_fulkerson.h ford_fulkerson.cpp flow_edge.h flow_edge.cpp flow_network.h flow_network.cpp)

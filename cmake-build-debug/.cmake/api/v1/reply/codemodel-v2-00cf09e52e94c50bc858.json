@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "graph_algorithms",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "blmn_Frd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-blmn_Frd-Debug-02db4dc367a1937adc6b.json",
+					"name" : "blmn_Frd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kruskal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kruskal-Debug-dcff9454522e624a6ff3.json",
+					"name" : "kruskal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "min_r::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-min_r-Debug-c6ed25c4407e27a8d1ee.json",
+					"name" : "min_r",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "prim::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prim-Debug-366ab3b3361387bfcab6.json",
+					"name" : "prim",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "topo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-topo-Debug-d3357f5e3e643c007ce6.json",
+					"name" : "topo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/neha2/CLionProjects/Coursera_part2/graph_algorithm/cmake-build-debug",
+		"source" : "C:/Users/neha2/CLionProjects/Coursera_part2/graph_algorithm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

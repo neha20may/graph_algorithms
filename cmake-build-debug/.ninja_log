@@ -1,0 +1,16 @@
+# ninja log v5
+4	2353	6642058301740566	CMakeFiles/kruskal.dir/kruskal.cpp.obj	184cc029da7e81d
+25	1706	6636856139540908	CMakeFiles/prim.dir/graph.cpp.obj	30afa2e106632140
+4	2239	6641414380318997	CMakeFiles/prim.dir/main.cpp.obj	58aa4c2c40d231b2
+4	2424	6642339260908327	CMakeFiles/prim.dir/prime.cpp.obj	5adad11a276094e6
+2584	2882	6643756989164362	prim.exe	fd5d2ba6bf5775c5
+616	796	6642404512112189	unq.exe	160d73416e310a6c
+25	1840	6642058296659480	CMakeFiles/kruskal.dir/graph.cpp.obj	e52312669b31fd39
+2101	2387	6641416497989897	kruskal.exe	282f8d358ad61ffb
+0	27	0	clean	80727070b5b16674
+4	615	6642404510342098	CMakeFiles/unq.dir/unique_pntr_test.cpp.obj	9859e56918f524ae
+1	734	6642404828247547	CMakeFiles/frwd.dir/forward_Arg_test.cpp.obj	36828e668008a58f
+4677	5215	6710470740542936	min_r.exe	9f7de9c29958f783
+734	966	6642404830727557	frwd.exe	136ca9b0f1e3a21f
+5	2584	6643756986195637	CMakeFiles/prim.dir/prim_dijkstra.cpp.obj	9fba2668da8fb3e1
+3	4676	6710470735162932	CMakeFiles/min_r.dir/min_refueling_stops.cpp.obj	df22af14c4d5b06e
